@@ -1,5 +1,5 @@
-<html>
-  
+
+ <html>
 <head> 
 <link rel="stylesheet" href="bootstrap\css\bootstrap.min.css"> 
 <title>profile saya</title> 
@@ -160,5 +160,3 @@
 </div>
 <script src="http://code.jquery.com/jquery.4.0.0.min.js"></script>
 <script src="http://bootstrap4.0.0-dist/js/bootstrap.4.0.0.min.js"></script>
-</body>
-  </html>
